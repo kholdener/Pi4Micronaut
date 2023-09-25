@@ -14,3 +14,4 @@ We plan on offering support for many more hardware components in the future. If 
 * RGB LEDs
 * LCDs
 * Photosensors
+* Something else
